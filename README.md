@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kasidit-au
+- 👋 Hi, I’m Kasidit Pruekwangkhao @Kasidit-au
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning statistical analysis, machine learning and deep learning.
 - 💞️ I’m looking to collaborate on any projects relating to prediction, computer vision and natural language processing.
